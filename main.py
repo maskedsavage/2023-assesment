@@ -1,1 +1,1 @@
-print("Hello")
+import yes_no
